@@ -1,7 +1,7 @@
 import numpy as np
 import pickle
 import streamlit as st
-loaded_model = pickle.load(open("C:/Users/SHIVAM SINGH/Dropbox/My PC (LAPTOP-IAV1MUTT)/Downloads/trained_model.sav", 'rb'))
+loaded_model = pickle.load(open("C:/Users/SHIVAM SINGH/ropbox/My PC (LAPTOP-IAV1MUTT)/Downloads/trained_model.pkl", 'rb'))
 
 
 
